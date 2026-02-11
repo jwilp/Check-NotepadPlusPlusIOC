@@ -20,7 +20,7 @@ A PowerShell script that scans a Windows machine for indicators of compromise (I
 ## Usage
 
 ```powershell
-.\Check-NotepadPlusPlusIOC_JPR2.ps1
+.\Check-NotepadPlusPlusIOC_JPR3.ps1
 ```
 
 If your execution policy prevents running the script, you can bypass it for the current session:
